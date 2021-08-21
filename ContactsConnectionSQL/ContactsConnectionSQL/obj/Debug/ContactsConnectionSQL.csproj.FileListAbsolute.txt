@@ -1,0 +1,21 @@
+c:\users\mrx\documents\visual studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\bin\Debug\ContactsConnectionSQL.exe.config
+c:\users\mrx\documents\visual studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\bin\Debug\ContactsConnectionSQL.exe
+c:\users\mrx\documents\visual studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\bin\Debug\ContactsConnectionSQL.pdb
+c:\users\mrx\documents\visual studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.Form1.resources
+c:\users\mrx\documents\visual studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.Properties.Resources.resources
+c:\users\mrx\documents\visual studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.csproj.GenerateResource.Cache
+c:\users\mrx\documents\visual studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.exe
+c:\users\mrx\documents\visual studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.pdb
+c:\users\mrx\documents\visual studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.AddAndEditContact.resources
+C:\Users\MRX\Documents\Visual Studio 2012\Projects\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.FormPassword.resources
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\bin\Debug\ContactsConnectionSQL.exe.config
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.exe
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.pdb
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\bin\Debug\ContactsConnectionSQL.exe
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\bin\Debug\ContactsConnectionSQL.pdb
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.csprojResolveAssemblyReference.cache
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.AddAndEditContact.resources
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.Form1.resources
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.FormPassword.resources
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.Properties.Resources.resources
+D:\C# Projects\Contacts\1400.04.19\ContactsConnectionSQL\ContactsConnectionSQL\obj\Debug\ContactsConnectionSQL.csproj.GenerateResource.Cache

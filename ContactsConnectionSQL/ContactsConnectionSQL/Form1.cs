@@ -21,16 +21,16 @@ namespace ContactsConnectionSQL
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
-			FormPassword frm = new FormPassword();
-			frm.ShowDialog();
-			if (frm.DialogResult == DialogResult.OK)
-			{
-				selectAll();
-			}
-			else
-			{
-				Application.Exit();
-			}
+			//FormPassword frm = new FormPassword();
+			//frm.ShowDialog();
+			//if (frm.DialogResult == DialogResult.OK)
+			//{
+			//	selectAll();
+			//}
+			//else
+			//{
+			//	Application.Exit();
+			//}
 		}
 
 		private void selectAll()
